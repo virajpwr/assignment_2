@@ -1,2 +1,2 @@
-# assignment2
-Assignment 2
+# Streamlit front end for image search 
+
