@@ -1,2 +1,1 @@
-# assignment2
-Assignment 2
+Streamlit app for image retrieval
