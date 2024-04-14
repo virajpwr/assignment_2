@@ -1,0 +1,7 @@
+streamlit
+PyYAML==6.0.1
+pandas
+dataclasses
+tqdm
+nltk
+num2words
