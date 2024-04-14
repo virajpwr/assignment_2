@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Streamlit front end for image search 
+Image retriveal app at : https://testassignment-7gvdxvytrtxmrqqwito2ze.streamlit.app/
 
-=======
-Streamlit app for image retrieval
->>>>>>> b5cb76ca2a36b91a178cfc9153d1e55064e8ed8a
+![alt text](image.png)
